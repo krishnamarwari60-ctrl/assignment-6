@@ -1,4 +1,4 @@
-## Assignment  DATA ANALYSIS WITH SQL
+## Assignment 6  DATA ANALYSIS WITH SQL
 
 
 ## Description
@@ -17,10 +17,10 @@ Added a Status column to indicate whether a record is active or inactive.
 
 ## Task 2: Delete Records Based on Conditions
  *  Description
-      Unnecessary or outdated records are removed from the table using defined conditions to keep the dataset clean and relevant.
+       Unnecessary or outdated records are removed from the table using defined conditions to keep the dataset clean and relevant.
 # Deletion Criteria
-Records with Status = 'Inactive'.
-Records where LastUpdated is older than a specified date.
+1. Records with Status = 'Inactive'.
+2. Records where LastUpdated is older than a specified date.
 
 
 
